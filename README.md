@@ -72,4 +72,4 @@ Visualizing the prevalence of different product colors in the catalog, revealing
 
   ### 6. Screenshots
  * Dashboard Snapshot 1 (https://github.com/hubchinmay/Lenskart-Dashboard/blob/main/Dashboard%20Snapshot%201.png)
- * Dashboard Snapshot 2 ()
+ * Dashboard Snapshot 2 (https://github.com/hubchinmay/Lenskart-Dashboard/blob/main/Dashboard%20Snapshot%202.png)
