@@ -4,11 +4,11 @@ Lenskart Catalog Analysis and Insights Dashboard
 
 A dynamic, interactive data visualization tool built to explore Lenskart's eyewear catalog—focusing on product categories, pricing trends, brand performance, and customer preferences.
 
-## 2. Short Description
+### 2. Short Description
 
 The Lenskart Catalog Analysis and Insights Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare various aspects of Lenskart's product catalog. The dashboard focuses on highlighting key features like product categories, frame materials, pricing distribution, and sales performance by brand. This tool is intended for use by product managers, marketing strategists, sales teams, and data analysts seeking to understand trends and characteristics of Lenskart's eyewear offerings.
 
-## 3. Tech Stack
+### 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -18,13 +18,13 @@ The dashboard was built using the following tools and technologies:
 * Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
 * File Format – `.pbix` for development and `.png` for dashboard previews.
 
-## 4. Data Source
+### 4. Data Source
 
 Source: Lenskart Dataset.xlsx - Dataset1.csv (Simulated Dataset Construction Techniques for BI Projects, generated through Gemini (Gemini), May 2025.)
 
 Data on Lenskart's product catalog, including details on product categories, sub-categories, brands, frame shapes, frame materials, colors, pricing, and quantities.
 
-## 5. Highlights
+### 5. Highlights
 
 * Business Problem
 The rapidly growing eyewear market, driven by online retailers like Lenskart, presents a vast amount of product data. However, product managers and marketing teams often lack an intuitive way to derive actionable insights from this data. Key questions such as: Which product categories are most popular? What are the pricing trends across different brands? Which frame materials are most in demand? ...are difficult to answer quickly with raw data.
