@@ -71,5 +71,5 @@ Visualizing the prevalence of different product colors in the catalog, revealing
 * Brand Performance Analysis: Provides a clear overview of how different brands perform within the Lenskart ecosystem, aiding in partnership decisions and promotional efforts.
 
   ### 6. Screenshots
-  Dashboard Snapshot 1 ()
-  Dashboard Snapshot 2 ()
+ * Dashboard Snapshot 1 (https://github.com/hubchinmay/Lenskart-Dashboard/blob/main/Dashboard%20Snapshot%201.png)
+ * Dashboard Snapshot 2 ()
